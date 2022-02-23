@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/excel.png</file>
+        <file>image/onay.png</file>
+        <file>image/uyarı.png</file>
+    </qresource>
+</RCC>
